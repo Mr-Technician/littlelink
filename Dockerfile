@@ -1,6 +1,6 @@
 FROM ghcr.io/techno-tim/littlelink-server:latest
 ENV META_TITLE='Riley Nielsen'
-ENV META_DESCRIPTION='Riley Nielsen\'s Links'
+ENV META_DESCRIPTION='Riley Nielsens Links'
 ENV META_AUTHOR='Riley Nielsen'
 ENV LANG=en
 #ENV META_INDEX_STATUS='noindex'

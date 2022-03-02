@@ -22,4 +22,4 @@ ENV TIKTOK='https://www.tiktok.com/@technotim'
 ENV KIT='https://kit.co/TechnoTim'
 ENV EMAIL='someone@example.com'
 ENV EMAIL_TEXT='Email me!'
-ENV FOOTER=Thanks for stopping by!
+ENV FOOTER='Thanks for stopping by!'
